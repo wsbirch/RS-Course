@@ -1,1 +1,14 @@
+# Code
 
+# DATA Visualization
+
+library(terra)
+library(imageRy)
+
+# library(devltools)
+
+# devl tools::install_github("ducciorocchini/imageRy")
+
+#List the data
+#all functions starting with im. are part of imagery
+im.list()
